@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc787c43-7fb9-4b9d-81b0-c4ad81adc05f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob1Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob1Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob2Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob2Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob3Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob3Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob4Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob4Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob5Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob5Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob6Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob6Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJob7Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob7Homework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJobFirstHomework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJobFirstHomework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJobSecondHomework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJobSecondHomework.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/TwoJobThirdHomework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJobThirdHomework.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -784,7 +774,7 @@
       <workItem from="1489485147306" duration="3512000" />
       <workItem from="1489489109034" duration="1712000" />
       <workItem from="1489494456648" duration="9915000" />
-      <workItem from="1489506601334" duration="1406000" />
+      <workItem from="1489506601334" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1489506879801</created>
@@ -821,11 +811,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489507946474</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework3">
+      <created>1489508020434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489508020434</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35305000" />
+    <option name="totallyTimeSpent" value="35369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="10" width="1260" height="687" extended-state="0" />
@@ -872,7 +869,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="homework" />
     <MESSAGE value="homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework2" />
+    <MESSAGE value="homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
