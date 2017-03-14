@@ -1,4 +1,4 @@
-package ru.aplana.lesson;
+package ru.aplana.lesson.lesson_2;
 
 import java.util.Scanner;
 
