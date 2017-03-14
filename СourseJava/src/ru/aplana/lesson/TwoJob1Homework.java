@@ -1,4 +1,4 @@
-package lesson_2;
+package ru.aplana.lesson;
 
 /**
  * Created by user on 14.03.2017.

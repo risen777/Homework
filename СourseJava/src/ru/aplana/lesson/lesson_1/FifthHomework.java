@@ -1,4 +1,4 @@
-package lesson_1;
+package ru.aplana.lesson.lesson_1;
 
 import java.util.Locale;
 import java.util.Scanner;
