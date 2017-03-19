@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc787c43-7fb9-4b9d-81b0-c4ad81adc05f" name="Default" comment="">
+    <list default="true" id="bc787c43-7fb9-4b9d-81b0-c4ad81adc05f" name="Default" comment="190317 2дз 13">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob13Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob13Homework.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Users\User\Documents\programming\Homework\СourseJava" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
@@ -41,8 +42,8 @@
       <file leaf-file-name="TwoJob13Homework.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob13Homework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
               <folding />
             </state>
           </provider>
@@ -799,7 +800,7 @@
       <workItem from="1489506601334" duration="16734000" />
       <workItem from="1489870300081" duration="1913000" />
       <workItem from="1489909902727" duration="80000" />
-      <workItem from="1489919585861" duration="10685000" />
+      <workItem from="1489919585861" duration="10736000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1489506879801</created>
@@ -864,11 +865,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489932141914</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="190317 2дз 13">
+      <created>1489932150339</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489932150339</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63311000" />
+    <option name="totallyTimeSpent" value="63362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
@@ -1287,8 +1295,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob13Homework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
           <folding />
         </state>
       </provider>

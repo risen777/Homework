@@ -21,7 +21,7 @@ public class TwoJob13Homework {
 
 
             }
-        System.out.println("Ошибочных= " + value);//искал по индексу для понятности выше вывод
+        System.out.println("Исключить= " + value);//искал по индексу для понятности выше вывод
         }
 
     }
