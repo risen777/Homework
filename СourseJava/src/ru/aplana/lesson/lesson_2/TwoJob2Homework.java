@@ -9,7 +9,7 @@ public class TwoJob2Homework {
         for (int i=1;i<=55;i++){
             if (i<=55) {
                 int value=i+2;
-                i=i++;
+                i++;
                 System.out.println(value);
 
 
