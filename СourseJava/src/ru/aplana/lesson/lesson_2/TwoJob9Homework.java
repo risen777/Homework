@@ -22,3 +22,4 @@ public class TwoJob9Homework {
         System.out.println(sum + " ");
     }
 }
+//как и говорил 9-е оформил через biginteger
