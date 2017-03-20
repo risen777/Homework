@@ -1,5 +1,6 @@
 package ru.aplana.lesson.lesson_2;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 /**
@@ -7,24 +8,17 @@ import java.util.Scanner;
  */
 public class TwoJob9Homework {
     public static void main(String[] args) {
-        int n;
-        int sum = 0;
+        BigInteger n;
+        BigInteger i=new BigInteger("10");
+        BigInteger sum =new BigInteger("0");
         System.out.print("Bвод натурального числа - ");
         Scanner sr = new Scanner(System.in);
-        n = sr.nextInt();
-        while(n != 0){
+        n = sr.nextBigInteger();
+        while(!n.equals(BigInteger.ZERO)){
             //Суммирование цифр числа
-            sum = sum + (n % 10);
-            n/=10;
+            sum = sum.add(n.mod(i));
+            n=n.divide(i);
         }
         System.out.println(sum + " ");
-        }
     }
-
-
-
-
-
-
-
-
+}
