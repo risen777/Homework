@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc787c43-7fb9-4b9d-81b0-c4ad81adc05f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/CheckEmpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employees.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java" afterPath="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +46,8 @@
       <file leaf-file-name="ThreeJob4Homework.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+            <state relative-caret-position="143">
+              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -53,9 +56,70 @@
       <file leaf-file-name="ThreeJob5Homework.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckEmpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/CheckEmpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-250">
+              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#579#580#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#873#874#0" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1166#1167#0" expanded="true" />
+                <element signature="e#1230#1231#0" expanded="true" />
+                <element signature="e#1260#1261#0" expanded="true" />
+                <element signature="e#1289#1290#0" expanded="true" />
+                <element signature="e#1334#1335#0" expanded="true" />
+                <element signature="e#1389#1390#0" expanded="true" />
+                <element signature="e#1430#1431#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employees.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-374">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#1345#1346#0" expanded="true" />
+                <element signature="e#1428#1429#0" expanded="true" />
+                <element signature="e#1677#1678#0" expanded="true" />
+                <element signature="e#1763#1764#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +181,11 @@
         <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob2Homework.java" />
         <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob9Homework.java" />
         <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob3Homework.java" />
+        <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ArrayAdapter.java" />
         <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java" />
+        <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/CheckEmpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employees.java" />
+        <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employee.java" />
         <option value="$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java" />
       </list>
     </option>
@@ -256,6 +324,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.aplana.lesson.lesson_3" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.ThreeJob4Homework">
     <configuration default="false" name="ThreeJob1Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -781,7 +854,7 @@
       <workItem from="1489909902727" duration="80000" />
       <workItem from="1489919585861" duration="10797000" />
       <workItem from="1489990566282" duration="16389000" />
-      <workItem from="1490177558411" duration="5689000" />
+      <workItem from="1490177558411" duration="13967000" />
     </task>
     <task id="LOCAL-00001" summary="3">
       <created>1489506879801</created>
@@ -888,11 +961,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490176992947</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="3 4 dz">
+      <created>1490183470650</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1490183470650</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85501000" />
+    <option name="totallyTimeSpent" value="93779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -947,10 +1027,13 @@
     <MESSAGE value="190317 2дз 13" />
     <MESSAGE value="9 biginteger" />
     <MESSAGE value="3 dz" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 dz" />
+    <MESSAGE value="3 4 dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 4 dz" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -958,50 +1041,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob1Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob3Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJob4Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoJobFourthHomework.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJobFirstHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_2/TwoJobSecondHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_1/FirstHomework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_1/ThirdHomework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1271,6 +1310,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="497" column="0" lean-forward="false" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,14 +1330,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob3Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob1Homework.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1306,7 +1338,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1468">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="1785" column="0" lean-forward="false" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ArrayAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1314,10 +1370,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#1345#1346#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1677#1678#0" expanded="true" />
+            <element signature="e#1763#1764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1260#1261#0" expanded="true" />
+            <element signature="e#1289#1290#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1430#1431#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/CheckEmpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob5Homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob3Homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/aplana/lesson/lesson_3/ThreeJob4Homework.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="143">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding />
         </state>
       </provider>
