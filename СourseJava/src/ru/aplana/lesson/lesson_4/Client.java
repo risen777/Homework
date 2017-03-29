@@ -6,21 +6,23 @@ package ru.aplana.lesson.lesson_4;
 public class Client {
 
 
+
+
     private String firstName;
         private String lastName;
         private int pasportNumber;
-        private int passportSeries;
-        private int setElementAccount; //расчетный
+        private int pasportSeries;
+        private int elementAccount; //расчетный
         private int runningAccount; //ткущий
         private String bank;
 
-    public Client(String firstName, String lastName, int pasportNumber, int passportSeries, int settlementAccount, int runningAccount, String bank) {
+    public Client(String firstName, String lastName, int pasportNumber, int pasportSeries, int elementAccount, int runningAccount, String bank) {
         setFirstName(firstName);
         setLastName(lastName);
         setPasportNumber(pasportNumber);
-        setPassportSeries(passportSeries);
-        setElementAccount = setElementAccount;
-        this.runningAccount = runningAccount;
+        setPassportSeries(pasportSeries);
+        setElementAccount(elementAccount);
+        setRunningAccount(runningAccount);
         this.bank = bank;
     }
 
@@ -51,19 +53,20 @@ public Client(String bank, String firstName, String lastName, int pasportNumber,
     }
 
     public int getPassportSeries() {
-        return passportSeries;
+        return pasportSeries;
     }
 
     public void setPassportSeries(int passportSeries) {
-        this.passportSeries = passportSeries;
+        this.pasportSeries = passportSeries;
     }
 
-    public int getSetElementAccount() {
-        return setElementAccount;
+    public int getElementAccount() {
+        return elementAccount;
     }
 
-    public void setSetElementAccount(int setElementAccount) {
-        this.setElementAccount = setElementAccount;
+
+    public void setElementAccount(int elementAccount) {
+        this.elementAccount = elementAccount;
     }
 
     public int getRunningAccount() {
@@ -81,6 +84,23 @@ public Client(String bank, String firstName, String lastName, int pasportNumber,
 
     public void setBank(String bank) {
         this.bank = bank;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Клиент{" +
+               "Банк='"+ bank+ '\'' +
+                ", Фамилия='" + lastName + '\'' +
+                ", Имя='" + firstName + '\'' +
+                ", Номер паспорта='" + pasportNumber + '\'' +
+                ", Серия паспорта='" + pasportSeries + '\'' +
+                ", Расчетный счет='" + elementAccount + '\'' +
+                ", Текущий счет='" + runningAccount + '\'' +
+                '}';
+
+
+
     }
 
 

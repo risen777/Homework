@@ -56,14 +56,14 @@ public class FourJob1Homework {
         System.out.println("Введите номер паспорта:");
         int pasportNumber = scanner.nextInt();
         System.out.println("Введите серию паспорта:");
-        int passportSeries = scanner.nextInt();
+        int pasportSeries = scanner.nextInt();
         System.out.println("Введите расчетный счет:");
-        int ElementAccount = scanner.nextInt();
+        int elementAccount = scanner.nextInt();
         System.out.println("Введите текущий счет:");
         int runningAccount = scanner.nextInt();
 
 
-        return new Client(bank, firstName, lastName, pasportNumber, passportSeries, ElementAccount, runningAccount);
+        return new Client(bank, firstName, lastName, pasportNumber, pasportSeries, elementAccount, runningAccount);
     }
 
 
