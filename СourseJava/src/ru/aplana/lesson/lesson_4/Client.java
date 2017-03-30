@@ -23,17 +23,18 @@ public class Client {
         setPassportSeries(pasportSeries);
         setElementAccount(elementAccount);
         setRunningAccount(runningAccount);
-        this.bank = bank;
+        setBank(bank);
     }
 
 public Client(String bank, String firstName, String lastName, int pasportNumber, int passportSeries, int elementAccount, int runningAccount){}
 
-    public String getFirstName() {
-        return firstName;
-    }
+
 
     public void setFirstName(String firstName) {
-        this.firstName = firstName;
+        this.firstName = getStringWithUpperCase(firstName);
+    }
+    public String getFirstName() {
+        return firstName;
     }
 
     public String getLastName() {
@@ -41,7 +42,17 @@ public Client(String bank, String firstName, String lastName, int pasportNumber,
     }
 
     public void setLastName(String lastName) {
-        this.lastName = lastName;
+        this.lastName=getStringWithUpperCase(lastName);
+    }
+
+    public void setBank(String bank) {
+        this.bank = getStringWithUpperCase(getBank());
+    }
+
+
+    private String getStringWithUpperCase(String s) {
+        String firstSymbol = s.substring(0,1);
+        return firstSymbol.toUpperCase() + s.substring(1, s.length());
     }
 
     public int getPasportNumber() {
@@ -82,9 +93,7 @@ public Client(String bank, String firstName, String lastName, int pasportNumber,
         return bank;
     }
 
-    public void setBank(String bank) {
-        this.bank = bank;
-    }
+
 
 
     @Override

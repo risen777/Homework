@@ -41,6 +41,7 @@ public class FourJob1Homework {
         if (clients.size() == 0) {
             System.err.println("Сотрудники не найдены");
         }
+
         for (Client client : clients) {
             System.out.println(client.toString());
         }

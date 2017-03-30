@@ -9,11 +9,15 @@ import java.util.List;
 
 public class Clients {
     private static List<Client> clients = new ArrayList<>();
-    public static List<Client> getClients() { return  clients;}
+    public static List<Client> getClients() {
+        return  clients;
+    }
 
-    public  static  void  setClients(Client client) {clients.add(client);}
+    public  static  void  setClients(Client client) {
+        clients.add(client);
+    }
 
-    public  static List<Client> getCltByBank(String bank){
+   public  static List<Client> getCltByBank(String bank){
         List<Client> clts =new ArrayList<>();
 
         for (Client client:clients) {
@@ -22,9 +26,10 @@ public class Clients {
                 clts.add(client);
             }
         }
-        return clts;
+        return clients;
 
             }
+
         }
 
 
